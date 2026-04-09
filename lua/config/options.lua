@@ -11,3 +11,4 @@ vim.opt.expandtab = true
 vim.opt.smarttab = true
 vim.opt.shiftround = true
 vim.g.autoformat = false
+
